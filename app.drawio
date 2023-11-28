@@ -1,0 +1,52 @@
+<mxfile host="65bd71144e">
+    <diagram id="7WNio9ijHacJKk8GFrf4" name="Page-1">
+        <mxGraphModel dx="882" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" style="edgeStyle=none;html=1;entryX=0.342;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" style="edgeStyle=none;html=1;entryX=0.575;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="App&lt;br&gt;state: toys" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="40" width="200" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Form" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="310" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="4" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=none;html=1;entryX=0.45;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4" target="14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;entryX=0.4;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4" target="16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="ToyContainer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="230" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="give form the ability to add to app's 'toys' state" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-35;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="220" width="270" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="ToyCards" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="365" y="420" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="onclick" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="530" y="480" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="handles 'toys' state, ability to remove from 'toys' state will happen here" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="80" width="400" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="ToyCards" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="420" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="ToyCards" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="420" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
