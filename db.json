@@ -1,12 +1,6 @@
 {
   "toys": [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
-    },
-    {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
@@ -25,12 +19,6 @@
       "likes": 4
     },
     {
-      "id": 5,
-      "name": "Rex",
-      "image": "https://static.wikia.nocookie.net/pixar/images/a/a8/Rex_%28Toy_Story%29.png/revision/latest/scale-to-width-down/377?cb=20210221010941",
-      "likes": 1
-    },
-    {
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
@@ -43,10 +31,16 @@
       "likes": 0
     },
     {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/70/Furby_picture.jpg",
+      "likes": 0,
+      "name": "Furby",
+      "id": 9
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/81rkRztLpjL._AC_UF894,1000_QL80_.jpg",
+      "likes": 8,
+      "name": "Tamagotchi",
+      "id": 10
     }
   ]
 }
